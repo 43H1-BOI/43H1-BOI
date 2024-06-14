@@ -17,7 +17,7 @@
 <br>
 <h2 align="center">:desktop_computer: Technologies and Coding Skills :desktop_computer:</h2>
 <div align="center">
-<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img align="center" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img align="center" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </div>
 <!--
 <br>

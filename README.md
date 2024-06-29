@@ -17,9 +17,12 @@
 <br>
 <h2 align="center">:desktop_computer: Technologies and Coding Skills :desktop_computer:</h2>
 <div align="center">
-<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img align="center" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img align="center" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </div>
+
 <!--
+
+<img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <br>
 <h2 align="center">:handshake: Open-Source Contribution :handshake:</h2>
 <p align="center">
@@ -31,6 +34,7 @@
   <a href="https://github.com/SachinDabhade/"><img src="https://readme-typing-svg.herokuapp.com?lines=Smart+India+Hackathon+Grand+Finalist+2022;SunHack+International+Level+Hackathon+2022;DataHack%20(Techyone)+Finalist+2022;2nd+Rank+in+Hacky-Holi+2022;Sustainability+Hackathon+2023&center=true&width=550&height=40"></a>
 </p>
 -->
+
 <h2 align="center">:smile: Languages Used :smile:</h2>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=43h1-boi&layout=compact"></div>
 

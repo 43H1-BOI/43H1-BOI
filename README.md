@@ -18,7 +18,7 @@
 
 <h2 align="center">:desktop_computer: Technologies and Coding Skills :desktop_computer:</h2>
 <div align="center">
-<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img align="center" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img align="center" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white">
 </div>
 
 <!--

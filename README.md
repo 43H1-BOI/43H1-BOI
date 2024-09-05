@@ -50,8 +50,7 @@
 <br>  
 <!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=43h1-Boi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
- </div>
- -->
+ </div> -->
 
 
 <h2 align="center">:telephone_receiver: Reach Me :telephone_receiver:</h2>

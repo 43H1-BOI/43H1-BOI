@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I am Abhishek Yadav! :wave:</h1>
-<h2 align="center">:books: Integrated MCA Student :books:</h2>
+<h2 align="center">:books:Integrated MCA Student:books:</h2>
 
 <p align="center">
   <a href="https://github.com/43H1-BOI/"><img src="https://readme-typing-svg.herokuapp.com?lines=Master+of+Computer+Application;%20IIPS+,+DAVV+,+Indore%20;CPP%20|%20HTML-CSS%20|%20Java%20|%20Android+Development%20;&center=true&width=550&height=40"></a>

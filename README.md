@@ -73,7 +73,7 @@
 <h2 align="center">:telephone_receiver: Reach Me :telephone_receiver:</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/43h1-boi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.github.com/43H1-BOI/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.instagram.com/abhiyadav.69"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="mailto:me.abhiyadav69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 <!-- -->

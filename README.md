@@ -49,7 +49,7 @@
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=43h1-boi&layout=compact"></div> -->
 
-<h3>
+<h3 align="center">
   <br clear="both">
   <img src="https://raw.githubusercontent.com/43h1-Boi/43h1-Boi/output/snake.svg" alt="Snake animation" />
 </h3>

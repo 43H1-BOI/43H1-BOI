@@ -11,8 +11,7 @@
 
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=43H1-BOI&show_icons=true&theme=chartreuse-dark" width="450" height="500">
-<img src="https://roadmap.sh/card/wide/66ca20c292ec1a8a732988c7?variant=dark" alt="roadmap.sh" width="450" height="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=43H1-BOI&show_icons=true&theme=chartreuse-dark"><img src="https://roadmap.sh/card/wide/66ca20c292ec1a8a732988c7?variant=dark" alt="roadmap.sh"/>
 </div>
 
 <br>
@@ -32,9 +31,6 @@
 <div align="center">
 <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img align="center" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white">
 </div>
--->
-
-<!--
 
 <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <br>
@@ -53,12 +49,9 @@
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=43h1-boi&layout=compact"></div> -->
 
-
 <h3>
-  
   <br clear="both">
   <img src="https://raw.githubusercontent.com/43h1-Boi/43h1-Boi/output/snake.svg" alt="Snake animation" />
-  
 </h3>
 
 <!--
@@ -76,9 +69,7 @@
 <!-- <img src="https://raw.githubusercontent.com/43h1-Boi/43h1-Boi/output/snake.svg" alt="Snake animation" /> -->
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=43h1-Boi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=43h1-Boi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph" />
 </div>
 
 <h2 align="center">:telephone_receiver: Reach Me :telephone_receiver:</h2>

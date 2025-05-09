@@ -1,4 +1,3 @@
-<!-- --><!-- --><!-- --><!-- --><!-- -->
 <h1 align="center">Hey, I am Abhishek Yadav! :wave:</h1>
 <h2 align="center">:books: Integrated MCA :books:</h2>
 
@@ -12,7 +11,8 @@
 
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=43H1-BOI&show_icons=true&theme=chartreuse-dark">
+<img src="https://github-readme-stats.vercel.app/api?username=43H1-BOI&show_icons=true&theme=chartreuse-dark" width="450" height="500">
+<img src="https://roadmap.sh/card/wide/66ca20c292ec1a8a732988c7?variant=dark" alt="roadmap.sh" width="450" height="500"/>
 </div>
 
 <br>
@@ -22,10 +22,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="html5" width="40" height="40"/>
-<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="html5" width="40" height="40"/> -->
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="html5" width="40" height="40"/> -->
 </p>
+
 <!--
 <h2></h2>
 <div align="center">
@@ -52,19 +53,20 @@
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=43h1-boi&layout=compact"></div> -->
 
-###
 
-<br clear="both">
+<h3>
+  
+  <br clear="both">
+  <img src="https://raw.githubusercontent.com/43h1-Boi/43h1-Boi/output/snake.svg" alt="Snake animation" />
+  
+</h3>
 
-<img src="https://raw.githubusercontent.com/43h1-Boi/43h1-Boi/output/snake.svg" alt="Snake animation" />
-
-###
-
+<!--
 <br>
  <div align ="center">
   <img  src="https://streak-stats.demolab.com?user=43h1-Boi&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
    </div>
-<br>  
+<br>  -->
 
 <!-- <picture> -->
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/43h1-Boi/43h1-Boi/output/github-contribution-grid-snake-dark.svg"> -->
@@ -74,15 +76,17 @@
 <!-- <img src="https://raw.githubusercontent.com/43h1-Boi/43h1-Boi/output/snake.svg" alt="Snake animation" /> -->
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=43h1-Boi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
- </div>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=43h1-Boi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
+
+</div>
 
 <h2 align="center">:telephone_receiver: Reach Me :telephone_receiver:</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/43h1-boi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/abhiyadav.69"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/TheAbhiOG/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="https://discordapp.com/users/593724838884016129"><img src="https://dcbadge.limes.pink/api/shield/593724838884016129"></a>
 <a href="mailto:me.abhiyadav69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-<!-- -->
+
+<!-- <a href="https://discordapp.com/users/593724838884016129"><img src="https://dcbadge.limes.pink/api/shield/593724838884016129"></a> -->

@@ -11,7 +11,8 @@
 
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=43H1-BOI&show_icons=true&theme=chartreuse-dark"><img src="https://roadmap.sh/card/wide/66ca20c292ec1a8a732988c7?variant=dark" alt="roadmap.sh"/>
+<img src="https://github-readme-stats.vercel.app/api?username=43H1-BOI&show_icons=true&theme=chartreuse-dark">
+  <!--<img src="https://roadmap.sh/card/wide/66ca20c292ec1a8a732988c7?variant=dark" alt="roadmap.sh"/>-->
 </div>
 
 <br>

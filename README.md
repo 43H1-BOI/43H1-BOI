@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I am Abhishek Yadav! :wave:</h1>
-<h2 align="center">:books: Integrated MCA :books:</h2>
+<h2 align="center">:books: Android Dev :books:</h2>
 
 <p align="center">
   <a href="https://github.com/43H1-BOI/"><img src="https://readme-typing-svg.herokuapp.com?lines=%20IIPS+,+DAVV+,+Indore%20;CPP%20|%20HTML-CSS%20|%20Java%20|%20Android+Development%20;&center=true&width=550&height=40"></a>
@@ -24,7 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="html5" width="40" height="40"/>
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="html5" width="40" height="40"/> -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="html5" width="40" height="40"/>
 </p>
 
 <!--

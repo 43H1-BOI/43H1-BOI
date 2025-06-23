@@ -2,7 +2,7 @@
 <h2 align="center">:books: Android Dev :books:</h2>
 
 <p align="center">
-  <a href="https://github.com/43H1-BOI/"><img src="https://readme-typing-svg.herokuapp.com?lines=%20IIPS+,+DAVV+,+Indore%20;CPP%20|%20HTML-CSS%20|%20Java%20|%20Android+Development%20;&center=true&width=550&height=40"></a>
+  <a href="https://github.com/43H1-BOI/"><img src="https://readme-typing-svg.herokuapp.com?lines=%20IIPS+,+DAVV+,+Indore%20;CPP%20|%20Java%20|%20Kotlin%20;%20Android+Development%20+,+%20Jetpack%20Compose;&center=true&width=550&height=40"></a>
 </p>
 
 <div align="center">
@@ -11,8 +11,8 @@
 
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=43H1-BOI&show_icons=true&theme=chartreuse-dark">
-  <!--<img src="https://roadmap.sh/card/wide/66ca20c292ec1a8a732988c7?variant=dark" alt="roadmap.sh"/>-->
+<img src="https://github-readme-stats.vercel.app/api?username=43H1-BOI&show_icons=true&theme=chartreuse-dark" height="200"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=43h1-boi&theme=github-compact&bg_color=20232a&hide_border=false&days=45&custom_title=Abhi's+Progress" height="200">
+<!--   <img src="https://roadmap.sh/card/wide/66ca20c292ec1a8a732988c7?variant=dark" alt="roadmap.sh"/> -->
 </div>
 
 <br>

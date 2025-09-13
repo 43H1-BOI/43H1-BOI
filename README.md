@@ -11,7 +11,7 @@
 
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=43H1-BOI&show_icons=true&theme=chartreuse-dark">  <img src="https://streak-stats.demolab.com/?user=43h1-boi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=43h1-boi&theme=github-compact&bg_color=20232a&hide_border=false&days=45&custom_title=Abhi's+Progress">
+<img src="https://github-readme-stats.vercel.app/api?username=43H1-BOI&show_icons=true&theme=chartreuse-dark">  <img src="https://streak-stats.demolab.com/?user=43h1-boi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"> <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=43h1-boi&theme=github-compact&bg_color=20232a&hide_border=false&days=45&custom_title=Abhi's+Progress"> -->
 <!--   <img src="https://roadmap.sh/card/wide/66ca20c292ec1a8a732988c7?variant=dark" alt="roadmap.sh"/> -->
 </div>
 
